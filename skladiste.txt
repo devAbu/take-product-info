@@ -1,0 +1,7 @@
+Naziv,cijena,skladiste
+Narandza,2.30,40
+Banana,2.20,50
+Jabuka,2.30,80
+Krompir,2.30,100
+Mrkva,1.50,30
+Paradajz,2.00,40
