@@ -5,8 +5,7 @@ def takeName(name):
     
     for p in data: 
         if p.Naziv == name: 
-            print(p.cijena)
-            print(p.skladiste)
+            print("CIJENA: {}  SKLADISTE: {}".format(p.cijena, p.skladiste))
 
 where = input("Unesi product: ")
 takeName(where)
